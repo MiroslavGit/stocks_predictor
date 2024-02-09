@@ -23,12 +23,12 @@ Follow these steps to run the stock price prediction code:
 
 ### Clone the Repository:
 
-- Copy code
+Copy code
 - git clone https://github.com/your-username/stock-price-prediction.git
 - cd stock-price-prediction
 
 Modify the Data Path:
-Open your Python script and find the line data=pd.read_csv("all_stocks_5yr.csv"). Replace "all_stocks_5yr.csv" with the correct path to your dataset.
+- Open your Python script and find the line data=pd.read_csv("all_stocks_5yr.csv"). Replace "all_stocks_5yr.csv" with the correct path to your dataset.
 
 ### Execute the Script:
 
