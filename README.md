@@ -23,16 +23,16 @@ Follow these steps to run the stock price prediction code:
 
 ### Clone the Repository:
 
-bash
 Copy code
 git clone https://github.com/your-username/stock-price-prediction.git
 cd stock-price-prediction
+
 Modify the Data Path:
 Open your Python script and find the line data=pd.read_csv("all_stocks_5yr.csv"). Replace "all_stocks_5yr.csv" with the correct path to your dataset.
 
 ### Execute the Script:
 
-In VS Code use F5, make sure you have python extenstions etc...
+In VS Code use F5, make sure you have python extensions and choose environment (right down corner).
 
 ### Results and Visualization
 Upon execution, the script will generate predictions for future stock prices. You can visualize the results by plotting predicted prices against the actual stock prices for a comprehensive analysis.
