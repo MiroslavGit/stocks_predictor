@@ -18,7 +18,7 @@ Before running the code, ensure you have the following prerequisites:
 ###  Dataset
 To use this model, you'll need historical stock price data in CSV format. The code assumes the existence of a file named "all_stocks_5yr.csv." Replace this file with your dataset, ensuring it contains columns like 'date' and 'close' for the date and closing stock prices.
 
-### Running the Code
+## Running the Code
 Follow these steps to run the stock price prediction code:
 
 ### Clone the Repository:
